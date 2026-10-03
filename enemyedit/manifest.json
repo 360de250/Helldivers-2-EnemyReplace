@@ -1,0 +1,9 @@
+{
+  "Version": 1,
+  "Guid": "8a5b30e6-7556-4427-b09f-df79a05c4d62",
+  "Name": "enemyedit",
+  "Description": "EnemyEdit - replace Terminid enemies with a chosen unit. Requires Bingus Shared Loader v15 or newer (loader API level 1); no second mod needed.",
+  "Options": [
+    { "Name": "enemyedit", "Description": "Terminid unit replacement UI.", "Include": ["Addon"] }
+  ]
+}
